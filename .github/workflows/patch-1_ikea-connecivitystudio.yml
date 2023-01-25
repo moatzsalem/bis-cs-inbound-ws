@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'IKEA-ConnecivityStudio'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CE4CA04B88364C18B223D133605E1AB7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7B85124FD9634CFD855B105B8DE277A6 }}
           package: .
