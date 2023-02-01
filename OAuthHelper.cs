@@ -1,5 +1,6 @@
 ﻿using System;
 using Microsoft.IdentityModel.Clients.ActiveDirectory;
+using System.Net;
 
 namespace BisConnectivityServices
 {
